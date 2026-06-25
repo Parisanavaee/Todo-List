@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# Todo-List
+Silver Ocean is a sleek and minimal Todo List application built with React and TypeScript. It features a luxurious white and silver user interface with smooth interactions, allowing users to add, edit, complete, and delete tasks in a clean productivity-focused experience.
+>>>>>>> 3fcbe98d310a6fca7d2b072e1f29b3d875655435
